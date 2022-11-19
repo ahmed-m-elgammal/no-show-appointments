@@ -13,6 +13,7 @@ What factors are important for us to know in order to predict if a patient will 
 
 ## Solution
 > Importing && cleaning data to make it easy to understand and analysable.
+> 
 > Apply Bivariate && Univariate analysis.
 
 ## Conclusions
