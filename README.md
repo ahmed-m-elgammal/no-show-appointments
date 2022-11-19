@@ -14,8 +14,8 @@ Be careful about the encoding of the last column: it says ‘No’ if the patien
 What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment? 
 
 ## Solution
-Importing && cleaning data to make it easy to understand and analysable.
-Apply Bivariate && Univariate analysis.
+> Importing && cleaning data to make it easy to understand and analysable.
+> Apply Bivariate && Univariate analysis.
 
 ## Conclusions
 
